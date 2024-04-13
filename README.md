@@ -4,8 +4,9 @@
 <h3 align="center">Current Graduate Student in Computer Science at the University of Virginia (UVA) </h3>
 <h3 align="center">Bachelor of Science Degree in Software Engineering with First Class Honors at University College Dublin (UCD) </h3>
 
-- 🔭 I’m looking for the **SDE/SWE internship in 2024 summer**
-- 🌱 I’m currently learning **Springboot, Spring JPA, CUDA, Django, Hadoop**
+- 🔭 I’m looking for the **SDE/SWE internship in 2024 summer** and **full-time SDE/SWE jobs based in US**
+- 🌱 I’m familiar with **Python, Java, Spring Boot, Flask, Django, Reat.js, Vue.js, MySQL, Redis, RESTful APIs, JavaScript, TypeScript, GraphQL, Linux, AWS, Docker, Kubernetes**
+- 🌱 I’m currently learning some super cool techs like **Apache Spark, Hadoop, HDFS, Ray cluster, Next.js**
 - 📫 Reach me at **kyq5pg@virginia.edu** or **lzhe72537@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
